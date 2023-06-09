@@ -2,8 +2,7 @@
 
 ### Desenvolvedor Web FullStack 🌐
 
-      Front-end ::  HTML e CSS é intermediário, visando conhecimento futuro em React. Tenho boa noção da integração da ação do cliente ao site, com Javascript.
-      Back-end :: Atualmente, estou aprendendo a criar API's com o NodeJS, CRUD, a utilização das tools Webpack + Express e tratamento de rotas do site.
+<br/>
 
 [![Linkendin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-zuriel-63aa9b248/)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/guilhermezuriel/)
@@ -24,4 +23,7 @@
 
 <br/>
 </div>
+
+      Front-end ::  HTML e CSS é intermediário, visando conhecimento futuro em React. Tenho boa noção da integração da ação do cliente ao site, com Javascript.
+      Back-end :: Atualmente, estou aprendendo a criar API's com o NodeJS, CRUD, a utilização das tools Webpack + Express e tratamento de rotas do site.
 
