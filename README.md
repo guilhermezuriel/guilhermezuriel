@@ -26,5 +26,5 @@
 </div>
 <br/>
 
-      Front-end ::  HTML e CSS é intermediário, visando conhecimento futuro em React. Tenho boa noção da integração da ação do cliente ao site, com Javascript.
-      Back-end :: Atualmente, estou aprendendo a criar API's com o NodeJS, CRUD, a utilização das tools Webpack + Express e tratamento de rotas do site.
+      Front-end ::  Atualmente, estou aprendendo React .
+      Back-end :: Atualmente, estou aprendendo NestJs.
