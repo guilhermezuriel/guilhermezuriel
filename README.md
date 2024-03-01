@@ -2,10 +2,6 @@
 
 <br/>
 
-[![Linkendin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-zuriel/)
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/guilhermezuriel/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:guizuriel.dev@gmail.com)
-
 <div>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=guilhermezuriel&show_icons=true&theme=dark">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermezuriel&theme=dark">
