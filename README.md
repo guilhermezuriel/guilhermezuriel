@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/ccb6c173-1c56-46be-b6ec-0f8f096bb1d3"></img>
+<img src="https://github.com/user-attachments/assets/40cdc330-062c-4fb9-9679-413ba6744a86"></img>
 
       Welcome!
       I am a software developer, currently working as a backend developer. 
