@@ -3,7 +3,7 @@
       Welcome!
       I am a software developer, currently working as a backend developer. 
 
-      - 💻 Project working on: Excel Table Maker
+      - 💻 Project working on: ExcelTable Maker
       - 📚 Studying: Design Patterns
       - ♨️ Programming made me love: java and coffee!
 
