@@ -1,15 +1,21 @@
 <img src="https://github.com/user-attachments/assets/40cdc330-062c-4fb9-9679-413ba6744a86"></img>
 
-      Welcome!
-      I am a software developer, currently working as a backend developer. 
+### 👋 Sysout!
+Meu nome é Guilherme Zuriel. Atualmente, moro em Aracaju, Brasil. 🚀
 
-      - 💻 Project working on: ExcelTable Maker
-      - 📚 Studying: Design Patterns
-      - ♨️ Programming made me love: java and coffee!
+No meu tempo livre, gosto de participar de comunidades de programação, onde aprendo e compartilho conhecimento sobre diversos tópicos. Desde 2 venho me envolvendo em projetos e iniciativas que impulsionam o crescimento da comunidade tecnológica. 🤝
+
+📍 Localização: Aracaju, Sergipe - Brasil <br>
+📚 Aprendizado Atual: Design Patterns <br>
+🎓 Formação: Ciência da Computação <br>
+
+### 😎 Curiosidades sobre Mim
+- 🎸 Sou apaixonado(a) por música e, ao longo dos anos, explorei diversos instrumentos e estilos.
+- 💡 Comecei a programar em 2022 e, desde então, venho me desafiando e aprendendo coisas novas.
+- 🤗 Acredito no poder da colaboração e estou sempre disposto(a) a ajudar quem busca evoluir na área de tecnologia.
+- 🌐 Tenho experiência em diversos projetos, desde servidores de jogos até aplicações web, o que me proporcionou uma visão ampla do desenvolvimento.
 
       
-      
-
 ### 📊 Stats:
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=guilhermezuriel&theme=blue_navy&hide_border=true)
