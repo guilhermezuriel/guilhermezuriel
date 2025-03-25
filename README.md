@@ -1,19 +1,19 @@
 <img src="https://github.com/user-attachments/assets/40cdc330-062c-4fb9-9679-413ba6744a86"></img>
 
 ### 👋 Sysout!
-Meu nome é Guilherme Zuriel. Atualmente, moro em Aracaju, Brasil. 🚀
+My name is Guilherme Zuriel, and I’m currently living in Aracaju, Brazil. 🚀
 
-No meu tempo livre, gosto de participar de comunidades de programação, onde aprendo e compartilho conhecimento sobre diversos tópicos. Desde 2 venho me envolvendo em projetos e iniciativas que impulsionam o crescimento da comunidade tecnológica. 🤝
+In my free time, I enjoy being part of programming communities where I learn and share knowledge on a variety of topics. Since 2022, I’ve been actively involved in projects and initiatives that help drive the growth of the tech community. 🤝
 
-📍 Localização: Aracaju, Sergipe - Brasil <br>
-📚 Aprendizado Atual: Design Patterns <br>
-🎓 Formação: Ciência da Computação <br>
+📍 Location: Aracaju - Brazil
+📚 Currently Learning: Design Patterns
+🎓 Degree: Computer Science
 
-### 😎 Curiosidades sobre Mim
-- 🎸 Sou apaixonado(a) por música e, ao longo dos anos, explorei diversos instrumentos e estilos.
-- 💡 Comecei a programar em 2022 e, desde então, venho me desafiando e aprendendo coisas novas.
-- 🤗 Acredito no poder da colaboração e estou sempre disposto(a) a ajudar quem busca evoluir na área de tecnologia.
-- 🌐 Tenho experiência em diversos projetos, desde servidores de jogos até aplicações web, o que me proporcionou uma visão ampla do desenvolvimento.
+### 😎 Fun Facts About Me
+🎸 I'm passionate about music and have explored different instruments and styles over the years.
+💡 I started programming in 2022 and have been constantly challenging myself and learning new things ever since.
+🤗 I believe in the power of collaboration and I'm always willing to help anyone looking to grow in tech.
+🌐 I have experience with a wide range of projects — from game servers to web applications — which has given me a broad perspective on software development.
 
       
 ### 📊 Stats:
