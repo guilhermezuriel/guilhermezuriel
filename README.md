@@ -10,10 +10,10 @@ In my free time, I enjoy being part of programming communities where I learn and
 🎓 Degree: Computer Science
 
 ### 😎 Fun Facts About Me
-🎸 I'm passionate about music and have explored different instruments and styles over the years.
-💡 I started programming in 2022 and have been constantly challenging myself and learning new things ever since.
-🤗 I believe in the power of collaboration and I'm always willing to help anyone looking to grow in tech.
-🌐 I have experience with a wide range of projects — from game servers to web applications — which has given me a broad perspective on software development.
+- 🎸 I'm passionate about music and have explored different instruments and styles over the years.
+- 💡 I started programming in 2021 and have been constantly challenging myself and learning new things ever since.
+- 🤗 I believe in the power of collaboration and I'm always willing to help anyone looking to grow in tech.
+- 🌐 I have experience with a wide range of projects — from game servers to web applications — which has given me a broad perspective on software development.
 
       
 ### 📊 Stats:
